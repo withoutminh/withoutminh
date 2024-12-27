@@ -1,10 +1,10 @@
-### <div align="center">I'm Minh, a dumb developer from Vietnam 👋</div>  
+### <div align="center">I'm Minh, a dumb developer from Vietnam 👋</div> 
   
 
 - 🔭 I’m currently working on [The UniChem Project](www.facebook.com/unichem.project)  
   
 
-- 🌱 I’m currently learning Java and JavaScript  
+- 🌱 I’m currently learning Java and JavaScript
   
 
 - ❓ Ask me about Valorant 🎮  
@@ -79,7 +79,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Stats and Donation  
   
 
 <br/>  
