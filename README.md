@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhat Minh</h1>
-<h3 align="center">A silly developer from Vietnam </3</h3>
+<h3 align="center">A silly developer from Vietnam!</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
